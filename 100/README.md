@@ -15,4 +15,4 @@ So in case of Movie-as-Code (MaC):
 
 Movie-as-Code (MaC) GUI refers to the Graphical User Interface (GUI also known as the frontend) of an application in which the user can follow a journey to get them from a perceived problem to a resolution, similar to the Hero's Journey which is the archetype of storytelling (read: movies).
 
-**NOTE**: Movie-as-Code CMS is the companion, the backend in the sahpe of a headless Content Management System (CMS) that manages the data that underlays the application (e.g. scene titles, characters, etc.).
+**NOTE**: Movie-as-Code (MaC) CMS is the companion, the backend in the sahpe of a headless Content Management System (CMS) that manages the data that underlays the application (e.g. scene titles, characters, etc.).
